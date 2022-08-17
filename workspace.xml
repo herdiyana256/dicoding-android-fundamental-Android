@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd8288b1-1d67-4a70-a468-f2c74c5d51bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/androidTest/java/com/app/githubuserapplication/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/ic_github-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/api/ApiConfig.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/api/ApiService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/model/database/FavoriteUser.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/model/database/FavoriteUserDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/model/database/FavoriteUserRoomDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/model/repository/FavoriteUserRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/model/response/DetailResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/model/response/UserResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/utils/FavoriteDiffCallback.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/utils/Helper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/ViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/details/SectionsPagerAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/details/UserDetailActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/details/UserDetailViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/details/follows/FollowerFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/details/follows/FollowerViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/details/follows/FollowingFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/details/follows/FollowingViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/details/follows/FollowsAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/favorites/FavoriteUserActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/favorites/FavoriteUserAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/favorites/FavoriteUserViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/main/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/main/MainViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/main/SearchAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/settings/SettingsPreferences.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/settings/SettingsViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/settings/ThemeSettingsActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/java/com/app/githubuserapplication/view/settings/ThemeSettingsViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-night/ic_company.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-night/ic_dark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-night/ic_favorite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-night/ic_github_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-night/ic_location.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-night/ic_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-night/ic_sunny.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-night/ic_unfavorite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-night/ic_web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-night/searchbar_shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-v24/ic_github_brands.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable-v24/splash_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable/ic_company.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable/ic_dark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable/ic_favorite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable/ic_github_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable/ic_location.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable/ic_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable/ic_sunny.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable/ic_unfavorite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable/ic_web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable/searchbar_shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/drawable/ui_preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/font/open_sans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/font/open_sans_bold.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/layout-night/activity_user_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/layout-night/item_row_user.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/layout/activity_favorite_user.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/layout/activity_theme_setting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/layout/activity_user_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/layout/fragment_follows.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/layout/item_row_user.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/menu/main_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-anydpi-v26/ic_github.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-anydpi-v26/ic_github_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-hdpi/ic_github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-hdpi/ic_github_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-mdpi/ic_github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-mdpi/ic_github_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-xhdpi/ic_github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-xhdpi/ic_github_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-xxhdpi/ic_github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-xxhdpi/ic_github_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-xxxhdpi/ic_github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/mipmap-xxxhdpi/ic_github_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/raw/loading.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/values/ic_github_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/main/res/xml/backup_descriptor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/app/src/test/java/com/app/githubuserapplication/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../submission3/fundamental-submission3/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2DRyty6RnIY0e9V5G8tcoN98MmV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd8288b1-1d67-4a70-a468-f2c74c5d51bb" name="Changes" comment="" />
+      <created>1660676409684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660676409684</updated>
+    </task>
+    <servers />
+  </component>
+</project>
